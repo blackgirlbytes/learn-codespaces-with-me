@@ -3,8 +3,7 @@
   "title": "Navigate your first Codespace",
   "steps": [
     {
-      "file": "App.js",
-      "line": 2,
+      "title": "Introduction",
       "description": "Hey! 👋 You've opened your first GitHub Codespaces template. This template is written in React. To get familiar with the code, we'll ask you to edit it! But don't worry, we'll give you directions each step of the way\n\nClick the `Next` link below to keep learning 👇"
     },
     {
