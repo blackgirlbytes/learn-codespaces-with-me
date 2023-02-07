@@ -9,7 +9,7 @@
     {
       "file": "../src/App.js",
       "line": 9,
-      "description": "Our app says GitHub Codespaces loves React, but we know you love React, too! Update 9 line where it says `<p> GitHub Codespaces <span className='heart'>♥️</span> React </p>` to say `<p> @Your_username_here <span className='heart'>♥️</span> React </p>`!\n\nSave your changes and then click `Next` to move forward. ⬇️" 
+      "description": "Our app says GitHub Codespaces loves React, but we know you love React, too! Update 9 line where it says `<p> GitHub Codespaces <span className='heart'>♥️</span> React </p>` to say `<p> @Your_username_here <span className='heart'>♥️</span> React </p>`!\n\nSave your changes and then click `Next` to move forward. ⬇️"
     },
     {
       "file": "../src/App.css",
@@ -20,5 +20,6 @@
       "title": "Completed",
       "description": "Mission complete! You added code to you first GitHub Codespace. Feel free to continue expirementing!"
     }
-  ]
+  ],
+  "isPrimary": true
 }
